@@ -1,0 +1,15 @@
+package com.KMA.sony.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "role")
+public class roleEntity {
+
+	private String name ;
+	
+	private String code;
+	
+	
+}

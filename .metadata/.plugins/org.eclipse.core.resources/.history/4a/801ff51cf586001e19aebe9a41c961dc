@@ -1,0 +1,11 @@
+package com.KMA.sony.entity;
+
+public class baseEntity {
+
+	private long id;
+	private String createdDate;
+	private String modifiedDate;
+	private String createdBy;
+	private String modifiedby;
+	
+}
